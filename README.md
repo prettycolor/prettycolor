@@ -4,11 +4,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="hero-light.png">
-  <img src="hero-dark.png" alt="All-In-One Hosting Tool" width="600">
-</picture>
+<img src="hero-text.svg" alt="All-In-One Hosting Tool — Domain Security & Performance Intelligence" width="600">
 
 <br>
 <br>
