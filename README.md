@@ -63,15 +63,6 @@ DNS resolution and record types. TLS certificate chains and cipher negotiation. 
 
 <div align="center">
 
-<img src="flower.png" width="180">
-
-<br>
-
-<sub>730K particles. Custom bloom shader. <a href="https://github.com/prettycolor/prettycolor-new">Source</a></sub>
-
-<br>
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=prettycolor&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=5865f2&icon_color=5865f2&text_color=9ca3af&ring_color=5865f2" width="450">
 
 </div>
