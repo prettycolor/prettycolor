@@ -59,10 +59,3 @@ DNS resolution and record types. TLS certificate chains and cipher negotiation. 
 | AWS Cloud Practitioner CLF-C02 | Actively studying |
 | Cloudflare Solutions Engineer Prep | Study platform built |
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prettycolor&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=5865f2&icon_color=5865f2&text_color=9ca3af&ring_color=5865f2" width="450">
-
-</div>
