@@ -4,6 +4,15 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="hero-light.png">
+  <img src="hero-dark.png" alt="All-In-One Hosting Tool" width="600">
+</picture>
+
+<br>
+<br>
+
 <a href="https://hostinginfo.gg"><img src="https://img.shields.io/badge/hostinginfo.gg-Live-5865f2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HostingInfo.gg"></a>
 &nbsp;
 <a href="https://linkedin.com/in/bradley-spaulding"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
