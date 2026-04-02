@@ -6,7 +6,7 @@
 
 <a href="https://hostinginfo.gg"><img src="https://img.shields.io/badge/hostinginfo.gg-Live-5865f2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HostingInfo.gg"></a>
 &nbsp;
-<a href="https://linkedin.com/in/bradleyspaulding"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/bradley-spaulding"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br>
 <br>
